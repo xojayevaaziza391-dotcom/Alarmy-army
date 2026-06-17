@@ -1,0 +1,6 @@
+{
+  "name": "Earphone Alarm Clock",
+  "description": "A roommate-friendly alarm clock designed to play exclusively through earphones with built-in safety checks, calibration tests, and disconnection auto-mute protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
